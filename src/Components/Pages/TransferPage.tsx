@@ -493,7 +493,7 @@ const TransferPage = () => {
             />
             <section className={classes.moonbeamLinks}>
               <a rel="noopener noreferrer" href="#" target="_blank">
-                Whalefin
+                MUD
               </a>
               <a rel="noopener noreferrer" href="#" target="_blank">
                 Documentation
